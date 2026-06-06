@@ -1,0 +1,120 @@
+# =========================
+
+# Build directories
+
+# =========================
+
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+x86/
+Release/
+
+vendor/
+
+# CMake build folders
+
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+compile_commands.json
+
+# =========================
+
+# Compiled files
+
+# =========================
+
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+*.so
+*.so.*
+*.dll
+*.exe
+*.out
+*.app
+
+# Static libraries
+
+*.a
+*.lib
+
+# Debug symbols
+
+*.pdb
+*.ilk
+*.idb
+
+# =========================
+
+# Visual Studio specific
+
+# =========================
+
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# MSBuild
+
+*.tlog
+*.log
+*.lastbuildstate
+
+# =========================
+
+# Temporary / cache files
+
+# =========================
+
+*.tmp
+*.temp
+*.cache
+*.log
+
+# =========================
+
+# IDEs / Editors
+
+# =========================
+
+# VS Code
+
+.vscode/
+
+# CLion / JetBrains
+
+.idea/
+
+# =========================
+
+# OS files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Optional: Ignore assets/output
+
+# =========================
+
+# Uncomment if needed
+
+# *.wav
+
+# *.mp3
+LazyFoo/x64/Debug/LazyFoo.vcxproj.FileListAbsolute.txt
+LazyFoo/x64/Debug/LazyFoo.exe.recipe
+LazyFoo/LazyFoo.vcxproj.filters
+LazyFoo/LazyFoo.vcxproj
